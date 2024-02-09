@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "587888056010",
+    "project_id": "astraline-c5463",
+    "storage_bucket": "astraline-c5463.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587888056010:android:414d4ee2a072ac7f08c633",
+        "android_client_info": {
+          "package_name": "com.mycompany.astraline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587888056010-ak71aqiniod3kbq3gokcfu5m22jl9037.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.astraline",
+            "certificate_hash": "112550eb947fc9805596071ffc84f983d6f44f24"
+          }
+        },
+        {
+          "client_id": "587888056010-lafdjo7hhgieuv02pkf4q040i46juu6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.astraline",
+            "certificate_hash": "37ad666c6fee425ce38f773f9ccaa6ffb8ec836f"
+          }
+        },
+        {
+          "client_id": "587888056010-n5n76ooa0mmpgei3urbmob729o7purp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.astraline",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "587888056010-q5n74fnqvfd2s9f36m47t9pfatjrtik1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.astraline",
+            "certificate_hash": "4e1571356fb2b1a5cafa17d94c68df4769bdb7a7"
+          }
+        },
+        {
+          "client_id": "587888056010-sg6c6tt85ocdafu5u9gvlp9hcet6vnrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.astraline",
+            "certificate_hash": "b79877eebd1b62f36a6757c20dc36ef63f510c2d"
+          }
+        },
+        {
+          "client_id": "587888056010-rk47r0kgpobi9qgcnniipvr7m133q8c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2FnQFtfpKfqnWTcv72NSyRFWn8j8FBjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587888056010-rk47r0kgpobi9qgcnniipvr7m133q8c9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "587888056010-5bbke127djdafo3fca56icket64s4mu0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.astraline"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587888056010:android:8f4a8bc83c54a75c08c633",
+        "android_client_info": {
+          "package_name": "com.mycompany.astralineadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587888056010-3m8dkis26cc6085sm81gmbei69td8rc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.astralineadmin",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "587888056010-rk47r0kgpobi9qgcnniipvr7m133q8c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2FnQFtfpKfqnWTcv72NSyRFWn8j8FBjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587888056010-rk47r0kgpobi9qgcnniipvr7m133q8c9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "587888056010-5bbke127djdafo3fca56icket64s4mu0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.astraline"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587888056010:android:6ac5d3ecbb1b1faf08c633",
+        "android_client_info": {
+          "package_name": "com.twindesignsandtech.astraline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587888056010-lonute4tce6qc4n7jp7mj7jjl5d0nsek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twindesignsandtech.astraline",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "587888056010-rk47r0kgpobi9qgcnniipvr7m133q8c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2FnQFtfpKfqnWTcv72NSyRFWn8j8FBjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587888056010-rk47r0kgpobi9qgcnniipvr7m133q8c9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "587888056010-5bbke127djdafo3fca56icket64s4mu0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.astraline"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
